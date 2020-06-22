@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c194acbb-1836-46ff-a02e-29256bedaae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Files_organizer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,8 +127,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.app2" />
-      <item itemvalue="Python.fileSeperator" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.fileSeperator" />
     </list>
     <recent_temporary>
       <list>
@@ -180,21 +176,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="455" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1592739166289" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592741391548">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1592842574996">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592741391548" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592741391546">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592842574996" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1592842574994">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592741391546" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592741391545">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592842574994" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1592842574992">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592741391545" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592741391547">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592842574992" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1592842574995">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592741391547" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592842574995" />
   </component>
 </project>

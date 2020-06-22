@@ -1,17 +1,20 @@
 import shutil
 import os
 from os.path import expanduser
+from pyfiglet import Figlet
 
-home = expanduser("~")
-os.chdir(home)
+os.chdir(expanduser("~"))
 current_folder = 'Files_organizer'
-source = 'Downloads'
+
+print(Figlet(font='slant').renderText(current_folder))
+
+print(f'Welcome to {current_folder} v1.0')
+# Mac OS users only
+
+source = input('Source Folder : ')
+
 files = os.listdir(source)
 
-print(source)
-
-
-# Mac OS users only
 
 def transfer(src, doc):
     location = src.get(ext, 'Documents')
